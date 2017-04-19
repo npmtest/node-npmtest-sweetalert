@@ -1,4 +1,7 @@
-# test coverage for  [sweetalert (v1.1.3)](http://tristanedwards.me/sweetalert)  [![npm package](https://img.shields.io/npm/v/npmtest-sweetalert.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sweetalert) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sweetalert.svg)](https://travis-ci.org/npmtest/node-npmtest-sweetalert)
+# npmtest-sweetalert
+
+#### test coverage for  [sweetalert (v1.1.3)](http://tristanedwards.me/sweetalert)  [![npm package](https://img.shields.io/npm/v/npmtest-sweetalert.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sweetalert) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sweetalert.svg)](https://travis-ci.org/npmtest/node-npmtest-sweetalert)
+
 #### A beautiful replacement for JavaScript's "alert"
 
 [![NPM](https://nodei.co/npm/sweetalert.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sweetalert)
